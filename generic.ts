@@ -8,3 +8,4 @@ var output2=show<number>(25)
 console.log(output);
 console.log(output2);
 
+ 
